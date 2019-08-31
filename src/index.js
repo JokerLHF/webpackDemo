@@ -47,16 +47,4 @@
 
 
 
-import React, { Component } from 'react'
-import ReactDom from 'react-dom';
-class APP extends Component {
-  render () {
-    return (
-      <div>
 
-      </div>
-    )
-  }
-}
-
-ReactDOM.render(<APP />, document.getElementById('root'));
